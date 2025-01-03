@@ -44,17 +44,6 @@ It Contains Jupyter notebooks for each project step.
 It also contains the HTML files for all 3 parts of the project. 
 
 
-
-## Necessary Python Libraries - 
-The project requires the following Python libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- jupyter
-
-
 ## Conclusion:
 - The project demonstrates a comprehensive approach to building and evaluating machine learning models for loan default prediction.
 - By following the given steps in 3 notebooks of the Project, one can gain insights into the data, model performance, and
